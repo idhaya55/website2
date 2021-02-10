@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../accelerated-mobile-pages-foundations-master/.idea/accelerated-mobile-pages-foundations-master.iml" filepath="$PROJECT_DIR$/../accelerated-mobile-pages-foundations-master/.idea/accelerated-mobile-pages-foundations-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../e-commerce/.idea/e-commerce.iml" filepath="$PROJECT_DIR$/../e-commerce/.idea/e-commerce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/web2.iml" filepath="$PROJECT_DIR$/.idea/web2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../website1/.idea/website1.iml" filepath="$PROJECT_DIR$/../website1/.idea/website1.iml" />
+    </modules>
+  </component>
+</project>
